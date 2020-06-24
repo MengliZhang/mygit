@@ -1,3 +1,1 @@
-print "hello"
-print "haha"
-print "heihei"
+print("hello")
